@@ -12,4 +12,6 @@ namespace Members.Data.Interfaces
       List<Member>  GetAllMembers();
         Member GetMember(int regId);
     }
+
+    //This is a comment.
 }

@@ -10,3 +10,15 @@ C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Mem
 C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.dll
 C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\ref\Members.Data.dll
 C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.pdb
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\bin\Debug\net5.0\Members.Data.deps.json
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\bin\Debug\net5.0\Members.Data.dll
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\bin\Debug\net5.0\ref\Members.Data.dll
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\bin\Debug\net5.0\Members.Data.pdb
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\obj\Debug\net5.0\Members.Data.csproj.AssemblyReference.cache
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\obj\Debug\net5.0\Members.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\obj\Debug\net5.0\Members.Data.AssemblyInfoInputs.cache
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\obj\Debug\net5.0\Members.Data.AssemblyInfo.cs
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\obj\Debug\net5.0\Members.Data.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\obj\Debug\net5.0\Members.Data.dll
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\obj\Debug\net5.0\ref\Members.Data.dll
+C:\Users\AMIT\source\repos\GitReposDemo\Members.Data\obj\Debug\net5.0\Members.Data.pdb
