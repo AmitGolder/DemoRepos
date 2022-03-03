@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "f3hJEgg2O++t0O0yQmroeUzTUwvJykCvfQhPvwI4bGh+RiKVbNLA10tyawRer1RWxkywOr954hSXCuiADvB0WQ==",
+  "dgSpecHash": "PvuC9gCg+otSOYYwwPtTlrWOSd2dQ2PTi9r8eBOqJr0UxOk8S+M3fNY1mZ0XNv4/D7i7Q9HIVJ4Alt5nXVl7Sw==",
   "success": true,
-  "projectFilePath": "C:\\TRN\\.NET CORE\\Projects\\AspNetCoreWebAPIDemo\\Members.Data\\Members.Data.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AMIT\\source\\repos\\GitReposDemo\\Members.Data\\Members.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMIT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\AMIT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\AMIT\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
