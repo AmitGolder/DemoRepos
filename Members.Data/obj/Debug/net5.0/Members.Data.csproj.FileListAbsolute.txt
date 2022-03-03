@@ -1,0 +1,12 @@
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\bin\Debug\net5.0\Members.Data.deps.json
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\bin\Debug\net5.0\Members.Data.dll
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\bin\Debug\net5.0\ref\Members.Data.dll
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\bin\Debug\net5.0\Members.Data.pdb
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.csproj.AssemblyReference.cache
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.AssemblyInfoInputs.cache
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.AssemblyInfo.cs
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.csproj.CoreCompileInputs.cache
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.dll
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\ref\Members.Data.dll
+C:\TRN\.NET CORE\Projects\AspNetCoreWebAPIDemo\Members.Data\obj\Debug\net5.0\Members.Data.pdb
